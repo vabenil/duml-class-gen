@@ -50,6 +50,7 @@ void main() {
 `dot -Tpng diagram.dot -o diagram.png`
 
 #### Resulting image:
+![Class diagram](./diagram.png)
 
 ### Converting to png:
 store the result of `create_uml_diagram` in a .dot file:
