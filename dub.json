@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Victor Abenil Fernandez Rodriguez"
+	],
+	"copyright": "Copyright © 2023, Victor Abenil Fernandez Rodriguez",
+	"description": "Generate UML class diagrams from D structs and classes",
+	"license": "MIT",
+	"name": "duml-class-gen",
+	"targetType": "library"
+}

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/duml_class_gen
+duml_class_gen.so
+duml_class_gen.dylib
+duml_class_gen.dll
+duml_class_gen.a
+duml_class_gen.lib
+duml_class_gen-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
